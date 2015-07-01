@@ -1,6 +1,6 @@
 <h2>cinema-booking-system</h2>
 <p>Site for booking tickets to the cinema.</p>
-<p>Front-end: html, css, bootstrap, a little bit of jQuery.</p>
+<p>Front-end: jsp, html, css, bootstrap, a little bit of jQuery.</p>
 <p>Back-end: Java, Spring MVC.</p>
 <p>DB: MySQL.</p>
 <p>JPA: Hibernate.</p>
