@@ -1,0 +1,23 @@
+id,date,time,hall,film
+1,01.07,10.00,bohemia,jurassic-world
+2,01.07,12.10,bohemia,spy
+3,01.07,09.00,alliance,"inside out"
+4,01.07,12.00,alliance,"insidious: chapter 3"
+5,01.07,17.30,bohemia,spy
+6,01.07,20.00,bohemia,jurassic-world
+7,01.07,21.00,alliance,"insidious: chapter 3"
+8,02.07,13.00,bohemia,"inside out"
+9,02.07,09.00,alliance,"insidious: chapter 3"
+10,02.07,18.00,bohemia,jurassic-world
+11,02.07,12.00,alliance,spy
+12,02.07,17.00,alliance,"inside out"
+13,02.07,20.00,bohemia,"insidious: chapter 3"
+14,02.07,21.00,alliance,jurassic-world
+15,03.07,10.00,bohemia,jurassic-world
+16,03.07,11.00,alliance,"inside out"
+17,03.07,13.00,bohemia,"insidious: chapter 3"
+18,03.07,20.00,bohemia,spy
+19,04.07,10.00,bohemia,jurassic-world
+20,04.07,11.00,alliance,"inside out"
+21,04.07,14.00,bohemia,spy
+22,04.07,22.00,alliance,"insidious: chapter 3"
