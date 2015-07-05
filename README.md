@@ -22,7 +22,7 @@ Build: Maven
 * appication.properties - file with DB settings ( db's name "cinema") and keys for social networks
   (user can login by Facebook or Twitter - Spring Social)
  
-* package valueobjects - orderVo use for get data from view during the purchase, statistics - get data to admin from admin panel
+* package valueobjects - orderVo use for get data from view during the purchase, statistics - get data from admin panel
 * ADMIN PANEL - you have to log in as admin ( user with ROLE_ADMIN) and at the index page choose "Admin panel" on submenu near your email address.
 
 ### Description 
