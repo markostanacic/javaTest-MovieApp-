@@ -1,10 +1,10 @@
 # Cinema booking system
 
-Site for booking tickets to the cinema.
+Site for booking cinema tickets.
 
-Front-end: jsp, bootstrap, jQuery
+Front-end: Jsp, bootstrap, jQuery
 
-Back-end: spring MVC.
+Back-end: Spring MVC.
 
 DB: MySQL.
 
