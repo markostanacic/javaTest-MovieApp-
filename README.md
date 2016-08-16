@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cinema booking system
 
 Site for booking cinema tickets.
@@ -33,10 +32,3 @@ At the index page you can buy ticket to specific film (choose among 4) - choose 
 After on the concrete cinema page select today's session (In the cinema there are 2 halls and lots of sessions per day).
 Choose free seats, do payment (in this project there is no real payment system or even check up with email - only form with HTML5 validation),and  get a print of tickets.
 
-
-
-
-=======
-# cinema-booking-system
-learning Spring MVC
->>>>>>> 68adf42d574147b2b569f4219b708e6a8a6836a9
