@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cinema booking system
 
 Site for booking cinema tickets.
@@ -35,3 +36,7 @@ Choose free seats, do payment (in this project there is no real payment system o
 
 
 
+=======
+# cinema-booking-system
+learning Spring MVC
+>>>>>>> 68adf42d574147b2b569f4219b708e6a8a6836a9
