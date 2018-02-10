@@ -24,7 +24,8 @@ public class TimetableDAOImpl implements TimetableDAO {
     }
 
 
-    @Override
+    @SuppressWarnings("unchecked")
+	@Override
     public List<String> getFilmSchedule(String filmName, String date) {
         List<String> schedule  = new ArrayList<>();
         SQLQuery query = getCurrentSession().createSQLQuery
